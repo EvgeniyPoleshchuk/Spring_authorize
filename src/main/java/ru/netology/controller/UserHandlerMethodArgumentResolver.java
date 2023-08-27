@@ -1,4 +1,4 @@
-package ru.netology.contoller;
+package ru.netology.controller;
 
 import org.springframework.core.MethodParameter;
 import org.springframework.web.bind.support.WebDataBinderFactory;
