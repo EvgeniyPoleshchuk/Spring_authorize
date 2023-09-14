@@ -13,6 +13,7 @@ import ru.netology.service.AuthorizationService;
 import java.util.List;
 
 @RestController
+@Validated
 public class AuthorizationController {
     private AuthorizationService service;
 
